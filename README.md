@@ -1,4 +1,9 @@
-## Hi there 👋
+## Merhaba 👋
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/205638637080150016?hideDiscrim=true)](https://discord.com/users/205638637080150016)
+
+
 
 <!--
 **MinikMilitan/MinikMilitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
