@@ -1,7 +1,7 @@
 ## Merhaba 👋
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/205638637080150016)](https://discord.com/users/205638637080150016)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:205638637080150016)](https://discord.com/users/:205638637080150016)
 
 
 
